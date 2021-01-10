@@ -1,3 +1,0 @@
-/mnt/c/Users/kouic/c++/cmake_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/kouic/c++/cmake_test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/kouic/c++/cmake_test/cmake-build-debug/CMakeFiles/a.out.dir

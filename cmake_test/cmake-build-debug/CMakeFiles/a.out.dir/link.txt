@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/a.out.dir/main.cpp.o CMakeFiles/a.out.dir/hello.cpp.o CMakeFiles/a.out.dir/test.cpp.o  -o a.out 
