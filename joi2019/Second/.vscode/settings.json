@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.ino": "cpp",
+    "*.ejs": "ejs",
+    "iosfwd": "cpp",
+    "xlocale": "cpp",
+    "xstring": "cpp",
+    "ostream": "cpp",
+    "xutility": "cpp",
+    "limits": "cpp"
+  }
+}

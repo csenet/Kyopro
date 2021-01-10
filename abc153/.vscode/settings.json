@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ino": "cpp",
+    "*.ejs": "ejs",
+    "ostream": "cpp"
+  }
+}

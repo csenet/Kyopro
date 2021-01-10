@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/kouic/c++/cmake_test/test.cpp
+iostream
+-
+test.hpp
+/mnt/c/Users/kouic/c++/cmake_test/test.hpp
+
+/mnt/c/Users/kouic/c++/cmake_test/test.hpp
+

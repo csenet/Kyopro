@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.ino": "cpp",
+    "*.ejs": "ejs",
+    "string_view": "cpp",
+    "regex": "cpp",
+    "tuple": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}

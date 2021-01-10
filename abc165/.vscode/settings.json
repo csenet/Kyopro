@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ino": "cpp",
+    "*.ejs": "ejs",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp"
+  }
+}
