@@ -63,6 +63,7 @@
     "atomic": "cpp",
     "cctype": "cpp",
     "compare": "cpp",
-    "concepts": "cpp"
+    "concepts": "cpp",
+    "chrono": "cpp"
   }
 }
