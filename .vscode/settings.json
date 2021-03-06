@@ -64,6 +64,8 @@
     "cctype": "cpp",
     "compare": "cpp",
     "concepts": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "string_view": "cpp",
+    "array": "cpp"
   }
 }
