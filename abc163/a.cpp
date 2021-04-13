@@ -1,8 +1,9 @@
-#include <bits/stdc++.h>
+#include <iostream>
+
 using namespace std;
 int main(void)
 {
-  long double R;
+ long double R;
   cin >> R;
   cout << R * 2.0 * M_PI << endl;
 }

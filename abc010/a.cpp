@@ -1,7 +1,9 @@
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
+#include <algorithm>
 using namespace std;
-int main(void){
+int main(void)
+{
     string input;
     cin >> input;
     cout << input << "pp" << endl;
